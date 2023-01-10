@@ -1,2 +1,2 @@
-# first-daydemo
+# first-day-demo
 my awesome repo
